@@ -1,0 +1,12 @@
+C:\Users\shou\Documents\Visual Studio 2017\Projects\wave\bin\Debug\wave.exe
+C:\Users\shou\Documents\Visual Studio 2017\Projects\wave\bin\Debug\wave.pdb
+C:\Users\shou\Documents\Visual Studio 2017\Projects\wave\obj\Debug\wave.csprojAssemblyReference.cache
+C:\Users\shou\Documents\Visual Studio 2017\Projects\wave\obj\Debug\wave.arangeSound.resources
+C:\Users\shou\Documents\Visual Studio 2017\Projects\wave\obj\Debug\wave.Properties.Resources.resources
+C:\Users\shou\Documents\Visual Studio 2017\Projects\wave\obj\Debug\wave.csproj.GenerateResource.cache
+C:\Users\shou\Documents\Visual Studio 2017\Projects\wave\obj\Debug\wave.csproj.CoreCompileInputs.cache
+C:\Users\shou\Documents\Visual Studio 2017\Projects\wave\obj\Debug\wave.exe
+C:\Users\shou\Documents\Visual Studio 2017\Projects\wave\obj\Debug\wave.pdb
+C:\Users\shou\Documents\Visual Studio 2017\Projects\wave\obj\Debug\wave.Reverb_form.resources
+C:\Users\shou\Documents\Visual Studio 2017\Projects\wave\obj\Debug\wave.LPF_form.resources
+C:\Users\shou\Documents\Visual Studio 2017\Projects\wave\obj\Debug\wave.Ring_form.resources
